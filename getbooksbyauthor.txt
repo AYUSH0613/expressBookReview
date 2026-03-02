@@ -1,0 +1,10 @@
+curl http://localhost:5000/author/Chinua Achebe
+
+Output:
+[
+  {
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "reviews": {}
+  }
+]
